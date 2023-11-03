@@ -3,6 +3,7 @@ using namespace std;
 void patt(int n)
 {
     int r,c;
+    //hui
     for(r=1;r<=n;r++)
     {
         for(c=1;c<=n;c++)
